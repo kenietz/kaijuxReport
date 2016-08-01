@@ -2,7 +2,7 @@
 
 
 Author:
-Dimitar Kenanov – kenietz78@gmail.com
+Dimitar Kenanov – kenietz78 at gmail dot com
 
 
 
